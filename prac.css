@@ -1,0 +1,9 @@
+.card {
+    width: 1200px;
+   height: 1200px;
+    background: url("vishal.jpeg") no-repeat;
+    display: inline-block;
+}
+.card:hover {
+    background: url("Tunali.jpeg") no-repeat;
+}
